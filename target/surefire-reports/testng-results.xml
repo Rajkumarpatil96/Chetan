@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Test case is validate ,test case is pass]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-04-15T23:05:19 IST" name="Suite" finished-at="2022-04-15T23:05:22 IST" duration-ms="3618">
+    <groups>
+    </groups>
+    <test started-at="2022-04-15T23:05:19 IST" name="Test" finished-at="2022-04-15T23:05:22 IST" duration-ms="3618">
+      <class name="testPackage.Testng">
+        <test-method is-config="true" signature="lounchbrowser()[pri:0, instance:testPackage.Testng@1f0f1111]" started-at="2022-04-15T23:04:38 IST" name="lounchbrowser" finished-at="2022-04-15T23:05:19 IST" duration-ms="40317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lounchbrowser -->
+        <test-method is-config="true" signature="assingDriver()[pri:0, instance:testPackage.Testng@1f0f1111]" started-at="2022-04-15T23:05:19 IST" name="assingDriver" finished-at="2022-04-15T23:05:19 IST" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assingDriver -->
+        <test-method signature="validateUrl()[pri:0, instance:testPackage.Testng@1f0f1111]" started-at="2022-04-15T23:05:19 IST" name="validateUrl" finished-at="2022-04-15T23:05:22 IST" duration-ms="3506" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case is validate ,test case is pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateUrl -->
+      </class> <!-- testPackage.Testng -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
